@@ -1,10 +1,10 @@
-<h2 align="left">Meu nome é Lucas Ferreira,</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:50abc6,100:67dcff&fontColor=fafafa&text=Lucas%20Ferreira&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20full-stack%20e%20QA&descAlignY=51&descAlign=53" />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuscasPng&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuscasPng&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=4&theme=ayu-mirage&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuscasPng&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuscasPng&locale=en&hide_title=false&layout=compact&langs_count=4&theme=react&hide_border=true&card_width=400" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -36,5 +36,8 @@
 ###
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:50abc6,100:67dcff" />
 </p>
+
+
+
